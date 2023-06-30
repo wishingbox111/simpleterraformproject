@@ -11,6 +11,7 @@ ESC - terminate the insert mode
 :wq to save and exit
 
 -- more commands to add! --
+
 **add more stuffs** - seems like i have added git add . once and even though I haven't push, and exited. 
 The file is saved as no difference from preivous version in the account. 
 Maybe cause I haven't sign in correct with the credential manager - it doesn't work with bash.
